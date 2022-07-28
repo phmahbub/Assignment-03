@@ -27,3 +27,8 @@ body{
 .Accordion .faq-answer{
     text-align: justify;
 }
+
+.companies-logo .companies{
+    width: 7vw ;
+    height: 3vh;
+}
