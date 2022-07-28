@@ -32,3 +32,10 @@ body{
     width: 7vw ;
     height: 3vh;
 }
+
+
+@media screen and (max-width: 991px){
+    .success-button, .left-right-button, .companies-logo {
+        display: none;
+    }
+}
