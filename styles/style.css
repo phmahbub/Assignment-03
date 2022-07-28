@@ -9,12 +9,20 @@ body{
     bottom: 0;
     left: 0;
     right: 0;
-    background: rgba(0, 0, 0, 0.6)
-}
-.carousel-caption{
-    color: white;
+    background: rgba(0, 0, 0, 0.4)
 }
 
+.feedback .card-text{
+    padding: 0 30px;
+    text-align: justify;
+}
+.feedback .left-right-button{
+    color: lightgray;
+    
+}
+.feedback .left-right-button:hover{
+    color: rgb(22, 155, 207);
+}
 
 .Accordion .faq-answer{
     text-align: justify;
