@@ -35,7 +35,14 @@ body{
     width: 7vw ;
     height: 3vh;
 }
-
+.elearning-text{
+    text-align: justify;
+}
+.elearning-text:hover{
+    overflow: visible;
+   white-space: normal;
+   
+}
 
 @media screen and (max-width: 991px){
     .success-button, .left-right-button, .companies-logo {
